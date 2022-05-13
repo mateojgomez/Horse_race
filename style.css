@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+}
+
+head{
+    background-color: gray;
+}
+
+#header{
+    background-color: gray;
+    text-align: center;
+}
